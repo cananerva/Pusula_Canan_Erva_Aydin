@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Outputs
+outputs/figures/*
+!outputs/figures/.gitkeep
+a# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Outputs
+outputs/figures/*
+!outputs/figures/.gitkeep
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/*
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Outputs
+outputs/figures/*
+!outputs/figures/.gitkeep
+!data/raw/.gitkeep
+

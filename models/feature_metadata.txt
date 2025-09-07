@@ -1,0 +1,21 @@
+Numeric columns:
+HastaNo
+Yas
+UygulamaSuresi
+KronikHastalik_Count
+Alerji_Count
+Tanilar_Count
+UygulamaYerleri_Count
+
+Categorical columns:
+Cinsiyet
+KanGrubu
+Uyruk
+KronikHastalik
+Bolum
+Alerji
+Tanilar
+TedaviAdi
+UygulamaYerleri
+
+Target: TedaviSuresi
